@@ -707,7 +707,7 @@ section.no-bg, #content.no-bg{
 	overflow: hidden;
 }
 #particles-js{
-	width:50%;
+	width:100%;
 	display:block;
 	height:100%;
 	position:absolute;
@@ -4506,10 +4506,8 @@ img.img-rounded {
 
 .img-profile{
 	
-	border:solid 3px rgba(40, 155, 5, 0.938);
-	width: 40%;
-	height: 40%;
-
+	border:solid 3px rgba(11, 43, 1, 0.938);
+	width: 25%;
 }
 
 .label {
