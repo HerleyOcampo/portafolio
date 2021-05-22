@@ -727,7 +727,7 @@ section.no-bg, #content.no-bg{
 
 footer {
 	background: #488a3b;
-	color: plum;
+	color: rgb(160, 221, 178);
 	padding: 80px 0 0px 0;
 }
 footer h3, .de_light footer h3 {
